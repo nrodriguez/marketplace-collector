@@ -1,2 +1,31 @@
-# marketplace-collector
-A gem that will aggregate results from multiple custom marketplaces into one nice JSON response. 
+# Marketplace::Collector
+
+TODO: Write a gem description
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'marketplace-collector'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install marketplace-collector
+
+## Usage
+
+TODO: Write usage instructions here
+
+## Contributing
+
+1. Fork it ( https://github.com/[my-github-username]/marketplace-collector/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
